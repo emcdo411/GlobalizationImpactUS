@@ -1,11 +1,3 @@
-Below is a GitHub-worthy `README.md` file for your globalization project, incorporating the `.csv` files, all four RStudio code snippets, and detailed instructions on what you did to complete it. I’ll also suggest a repository name that reflects the project’s focus on globalization’s impact on U.S. companies.
-
-### Suggested Repository Name
-**`GlobalizationImpactUS`**  
-- Short, descriptive, and relevant to your project on globalization’s economic and social effects on U.S. companies with a global presence.
-
----
-
 ### README.md
 
 ```markdown
